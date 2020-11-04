@@ -20,6 +20,7 @@ Due to the high gas price set in truffle.js file.
 You will need to:
 - Increase Gas Limit
 - Update Account default balance
+- Update Server to HTTP://127.0.0.1:8545
 - Please see the screenshot above
 
 ```
