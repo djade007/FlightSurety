@@ -15,8 +15,20 @@ To install, download or clone the repo, then:
 
 To run truffle tests:
 
-`truffle test ./test/flightSurety.js`
-`truffle test ./test/oracles.js`
+![truffle test](ganache.png)
+Due to the high gas price set in truffle.js file.
+You will need to:
+- Increase Gas Limit
+- Update Account default balance
+- Please see the screenshot above
+
+```
+truffle test ./test/flightSurety.js
+```
+
+```
+truffle test ./test/oracles.js
+```
 
 To use the dapp:
 
