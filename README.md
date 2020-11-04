@@ -22,6 +22,7 @@ You will need to:
 - Update Account default balance
 - Update Server to HTTP://127.0.0.1:8545
 - Please see the screenshot above
+- Make sure you also update the mnemonic on the truffle.js file
 
 ```
 truffle test ./test/flightSurety.js
